@@ -1,0 +1,22 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+table{
+border-collapse: collapse;
+}
+
+table th{
+    background:gold;
+    padding: 20px;
+    border: 1px solid #aaa;
+}
+
+table td{
+    border: 1px solid #aaa;
+    padding: 20px;
+}
+
+.tab {
+}
